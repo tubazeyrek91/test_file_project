@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DistributedStorage.Domain/DistributedStorage.Domain.csproj" />
+    <Project Path="src/DistributedStorage.Application/DistributedStorage.Application.csproj" />
+    <Project Path="src/DistributedStorage.Infrastructure/DistributedStorage.Infrastructure.csproj" />
+    <Project Path="src/DistributedStorage.Persistence/DistributedStorage.Persistence.csproj" />
+    <Project Path="src/DistributedStorage.ConsoleApp/DistributedStorage.ConsoleApp.csproj" />
+    <Project Path="src/DistributedStorage.LogConsumer/DistributedStorage.LogConsumer.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DistributedStorage.Tests/DistributedStorage.Tests.csproj" />
+  </Folder>
+</Solution>
